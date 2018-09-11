@@ -1,0 +1,14 @@
+{
+  "name": "App",
+  "version": "0.0.1",
+  "main": "listener.js",
+  "description": "App",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "mysql": "^2.14.0",
+    "pidusage": "^1.1.6",
+    "socket.io": "^2.0.3",
+    "winston": "^2.3.1"
+  },
+  "author": "Naim Berk TUMER"
+}
