@@ -1,0 +1,1 @@
+web: node --inspect ./listener.js (or ./app.js or whatever your entry point is)
