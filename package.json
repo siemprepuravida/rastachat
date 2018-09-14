@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "main": "listener.js",
   "description": "App",
+  "scripts": { 
+    "start": "node listener.js"
+	},
   "dependencies": {
     "moment": "^2.18.1",
     "mysql": "^2.14.0",
