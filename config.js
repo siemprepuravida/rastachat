@@ -7,4 +7,4 @@ exports.DB_CONFIG = {
 	DB_PREFIX: 'routes_',
 }
 
-exports.LISTENER_PORT = 8880;
+exports.LISTENER_PORT = 443;
